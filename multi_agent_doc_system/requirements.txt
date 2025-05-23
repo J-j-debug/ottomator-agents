@@ -1,0 +1,9 @@
+pydantic-ai
+lightrag
+openai
+python-dotenv
+PyPDF2
+pdfminer.six
+unstructured
+reportlab
+pillow-heif
